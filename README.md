@@ -1,2 +1,2 @@
 # projectCinema
-Welcome to Academy Cinemas!
+Welcome to Tech Cinemas!
